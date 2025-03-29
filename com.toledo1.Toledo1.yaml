@@ -32,11 +32,11 @@ modules:
       - type: file
         path: com.toledo1.Toledo1.appdata.xml
       - type: extra-data
-        size: 294911336
+        size: 294952088
         only-arches:
           - x86_64
-        url: https://toledo1.nyc3.cdn.digitaloceanspaces.com/download/v2.0.0/toledo1
-        sha256: eabb573e7889c7cc7d4664b7a13f63bf656065fc7bd0b9b27cf7ebc2fc19c6cc
+        url: https://toledo1.nyc3.cdn.digitaloceanspaces.com/download/v2.0.1/toledo1
+        sha256: bb73e70f4a5ee41fbffd6a10090943459b788c80081bc1abbe10d4e7c60eb71f
         filename: toledo1
       - type: script
         dest-filename: apply_extra
