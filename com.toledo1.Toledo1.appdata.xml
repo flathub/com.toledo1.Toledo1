@@ -64,7 +64,7 @@
         </ul>
         <p>Release Changes:</p>
         <ul>
-          <li>Increased content limit to 1M tokens for gemini models</li>
+          <li>Increased context limit to 1M tokens for gemini models</li>
           <li>Preset6 defaulted to gemini-2.0-flash-lite</li>
         </ul>
       </description>
