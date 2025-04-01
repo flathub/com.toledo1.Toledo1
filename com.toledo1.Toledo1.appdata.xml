@@ -48,7 +48,7 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.0.1" date="2024-03-29">
+    <release version="2.0.2" date="2024-03-29">
       <description>
         <p>Toledo1 features:</p>
         <ul>
@@ -64,8 +64,9 @@
         </ul>
         <p>Release Changes:</p>
         <ul>
+          <li>Added Gemini API support</li>
           <li>Increased context limit to 1M tokens for gemini models</li>
-          <li>Preset6 defaulted to gemini-2.0-flash-lite</li>
+          <li>Preset6 defaulted to gemini-2.5-pro-exp-03-25</li>
         </ul>
       </description>
     </release>
