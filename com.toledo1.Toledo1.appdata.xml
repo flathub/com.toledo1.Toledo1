@@ -5,10 +5,14 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>LicenseRef-proprietary=https://toledo1.com/license/</project_license>
   <name>Toledo1</name>
-  <summary>Advanced LLM browser with client-side search, pay-per-query model, and file processing</summary>
+  <summary>Achieve search sovereignty with Toledo1, a compound LLM browser</summary>
   <developer id="com.toledo1">
     <name>Toledo1</name>
   </developer>
+  <branding>
+    <color type="primary" scheme_preference="light">#ffffff</color>
+    <color type="primary" scheme_preference="dark">#282a2e</color>
+  </branding>
   <description>
     <p>Toledo1 is a revolutionary LLM browser that transforms how you interact with AI models and search the web.</p>
     <p>Unlike traditional browsers, Toledo1 treats URLs as direct connections to LLM inference engines, creating a direct chat line to any LLM available on the public internet, private cloud, or local desktop.</p>
@@ -48,20 +52,8 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.0.2" date="2024-03-29">
+    <release version="2.0.2" date="2025-04-02">
       <description>
-        <p>Toledo1 features:</p>
-        <ul>
-          <li>Client-side search tool</li>
-          <li>Pay-per-query confidential API system</li>
-          <li>Code assistance with highlights</li>
-          <li>Search the web and get real-time info</li>
-          <li>Cross-model history management</li>
-          <li>Process files and images</li>
-          <li>Local inference support with ollama</li>
-          <li>Customizable AI assistant with system settings</li>
-          <li>Dynamic UI for context, add/delete messages continuously to include uploaded images and files</li>
-        </ul>
         <p>Release Changes:</p>
         <ul>
           <li>Added Gemini API support</li>
