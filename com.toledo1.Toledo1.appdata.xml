@@ -52,12 +52,12 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.0.4" date="2025-04-19">
+    <release version="2.0.5" date="2025-04-25">
       <description>
         <p>Release Changes:</p>
         <ul>
-          <li>Updated default presets: P1=gpt-4.1, P2=gpt-4.1-mini, P7=grok-3, P11=o3-mini, P12=o4-mini</li>
-          <li>Preset reset action no longer deletes api-key or username</li>
+          <li>Process PDFs containing images using your choice of leading AI models (OpenAI, Gemini, Anthropic)</li>
+          <li>Gain deeper research insights by applying advanced multimodal AI reasoning to understand both text and images within your PDFs</li>
         </ul>
       </description>
     </release>
