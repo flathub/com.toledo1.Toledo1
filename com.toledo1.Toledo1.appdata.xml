@@ -52,11 +52,11 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.0.6" date="2025-04-29">
+    <release version="2.0.7" date="2025-05-01">
       <description>
         <p>Release Changes:</p>
         <ul>
-          <li>Stability changes for the context management system, improving code generation accuracy</li>
+          <li>Stability changes for the context management system, allowing never-ending chat threads</li>
           <li>Process PDFs containing images using your choice of leading AI models (OpenAI, Gemini, Anthropic)</li>
           <li>Gain deeper research insights by applying advanced multimodal AI reasoning to understand both text and images within your PDFs</li>
         </ul>
