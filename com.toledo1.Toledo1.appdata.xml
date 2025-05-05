@@ -22,11 +22,11 @@
       <li><em>Client-Side Search</em>: Powerful native desktop application that integrates seamlessly with your workflow. Search and process information directly from your PC.</li>
       <li><em>No Subscriptions</em>: Transparent pay-per-query pricing with enterprise-grade security. Only pay for what you use with our confidential API system.</li>
       <li><em>AI Agent</em>: Agentic search with MCP tools when Agent mode is selected (feature under development).</li>
-      <li><em>Code Copilot</em>: Our heavy-duty context management system allows for never-ending large context threads, making it ideal for edge function development in the cloud.</li>
+      <li><em>Code Copilot</em>: Our heavy-duty context management system supports never-ending large chat threads, making it ideal for edge function development in the cloud.</li>
       <li><em>Web Search</em>: Get live market data, weather information, and current events. Stay updated with accurate, real-time information.</li>
       <li><em>History Management</em>: Seamlessly transfer chat history between LLM systems while preserving context, including files and images.</li>
       <li><em>Multi-Purpose Assistant</em>: Customize Toledo1's behavior and expertise through flexible system settings for your specific needs.</li>
-      <li><em>File &amp; Image Processing</em>: Process multiple file formats including text, PDF, and images. Extract and analyze information from your documents.</li>
+      <li><em>File &amp; Image Processing</em>: Process multiple file formats including text, PDF, and images. Extract and analyze information from your documents to include images in PDFs.</li>
       <li><em>Dynamic UI</em>: Add or delete context continuously to include uploaded files or images</li>
       <li><em>Local Inference with Ollama</em>: Maintain complete privacy with on-device processing when needed.</li>
     </ul>
@@ -52,11 +52,13 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.0.7" date="2025-05-01">
+    <release version="2.0.8" date="2025-05-05">
       <description>
         <p>Release Changes:</p>
         <ul>
-          <li>Stability changes for the context management system, allowing never-ending chat threads</li>
+          <li>Updated max context length to 10M tokens for llama4 models</li>
+          <li>Updated Preset9 to llama-4-scout</li>
+          <li>Stability changes for the context management system, supporting never-ending chat threads</li>
           <li>Process PDFs containing images using your choice of leading AI models (OpenAI, Gemini, Anthropic)</li>
           <li>Gain deeper research insights by applying advanced multimodal AI reasoning to understand both text and images within your PDFs</li>
         </ul>
