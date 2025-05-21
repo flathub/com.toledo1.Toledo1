@@ -28,6 +28,7 @@
       <li><em>Multi-Purpose Assistant</em>: Customize Toledo1's behavior and expertise through flexible system settings for your specific needs.</li>
       <li><em>File &amp; Image Processing</em>: Process multiple file formats including text, PDF, and images. Extract and analyze information from your documents to include images in PDFs.</li>
       <li><em>Dynamic UI</em>: Add or delete context continuously to include uploaded files or images</li>
+      <li><em>Think Mode</em>: Chat with reasoning models across providers using presets on the same chat thread with think mode to solve your hardest problems</li>
       <li><em>Local Inference with Ollama</em>: Maintain complete privacy with on-device processing when needed.</li>
     </ul>
     
@@ -52,10 +53,11 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.0.11" date="2025-05-14">
+    <release version="2.1.0" date="2025-05-21">
       <description>
         <p>Release Changes:</p>
         <ul>
+          <li>Think button added for reasoning models</li>
           <li>Updated P6 = gemini-2.5-pro-preview-05-06</li>
           <li>Updated P9 = llama-4-scout</li>
           <li>Updated max context length to 10M tokens for llama4 models</li>
