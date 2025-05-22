@@ -37,15 +37,15 @@
   <launchable type="desktop-id">com.toledo1.Toledo1.desktop</launchable>
   <screenshots>
     <screenshot type="default">
-      <image>https://toledo1.com/toledo1-linux-demo1.png</image>
+      <image>https://toledo1.com/toledo1-linux-demo4.png</image>
       <caption>Chat with reasoning models across providers on the same chat thread</caption>
     </screenshot>
     <screenshot type="default">
-      <image>https://toledo1.com/toledo1-linux-demo2.png</image>
+      <image>https://toledo1.com/toledo1-linux-demo5.png</image>
       <caption>Search and resume previous conversations</caption>
     </screenshot>
     <screenshot type="default">
-      <image>https://toledo1.com/toledo1-linux-demo3.png</image>
+      <image>https://toledo1.com/toledo1-linux-demo6.png</image>
       <caption>Run local inference with the best models</caption>
     </screenshot>
   </screenshots>
@@ -53,7 +53,7 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.1.0" date="2025-05-21">
+    <release version="2.1.1" date="2025-05-22">
       <description>
         <p>Release Changes:</p>
         <ul>
