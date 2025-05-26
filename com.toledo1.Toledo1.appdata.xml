@@ -29,6 +29,7 @@
       <li><em>File &amp; Image Processing</em>: Process multiple file formats including text, PDF, and images. Extract and analyze information from your documents to include images in PDFs.</li>
       <li><em>Dynamic UI</em>: Add or delete context continuously to include uploaded files or images</li>
       <li><em>Think Mode</em>: Chat with reasoning models across providers using presets on the same chat thread with think mode to solve your hardest problems</li>
+      <li><em>Share Chats</em>: Import and export your chat's context with other Toledo1 users</li>
       <li><em>Local Inference with Ollama</em>: Maintain complete privacy with on-device processing when needed.</li>
     </ul>
     
@@ -53,10 +54,11 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.1.2" date="2025-05-23">
+    <release version="2.1.3" date="2025-05-26">
       <description>
         <p>Release Changes:</p>
         <ul>
+          <li>Share chats with other Toledo1 users using the export/import menu action</li>
           <li>Updated P3 = claude-sonnet-4-20250514</li>
           <li>Updated P4 = claude-opus-4-20250514</li>
           <li>Updated P10 = deepseek-chat-v3-0324</li>
