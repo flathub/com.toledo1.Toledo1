@@ -21,7 +21,7 @@
     <ul>
       <li><em>Client-Side Search</em>: Powerful native desktop application that integrates seamlessly with your workflow. Search and process information directly from your PC.</li>
       <li><em>No Subscriptions</em>: Transparent pay-per-query pricing with enterprise-grade security. Only pay for what you use with our confidential API system.</li>
-      <li><em>AI Agent</em>: Agentic search with MCP tools when Agent mode is selected (feature under development).</li>
+      <li><em>AI Agent</em>: Intelligent agentic search system with customizable LLM chains. Features API keyless configuration for presets using Toledo1 signon, enabling seamless model switching and automated reasoning workflows (in development).</li>
       <li><em>Code Copilot</em>: Our heavy-duty context management system supports never-ending large chat threads, making it ideal for edge function development in the cloud.</li>
       <li><em>Web Search</em>: Get live market data, weather information, and current events. Stay updated with accurate, real-time information.</li>
       <li><em>History Management</em>: Seamlessly transfer chat history between LLM systems while preserving context, including files and images.</li>
@@ -54,16 +54,12 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.1.7" date="2025-06-05">
+    <release version="2.1.8" date="2025-06-12">
       <description>
         <p>Release Changes:</p>
         <ul>
-          <li>Improved copy and paste to preserve HTML format but inherit style from destination</li>
+          <li>Updated P6 = gemini-2.5-pro-preview-06-05</li>
           <li>Share chats with other Toledo1 users using the export/import menu action</li>
-          <li>Updated P3 = claude-sonnet-4-20250514</li>
-          <li>Updated P4 = claude-opus-4-20250514</li>
-          <li>Updated P10 = deepseek-chat-v3-0324</li>
-          <li>Think mode added for reasoning models</li>
         </ul>
       </description>
     </release>
