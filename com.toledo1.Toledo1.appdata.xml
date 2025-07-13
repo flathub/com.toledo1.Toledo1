@@ -54,12 +54,12 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.1.9" date="2025-07-03">
+    <release version="2.1.10" date="2025-07-13">
       <description>
         <p>Release Changes:</p>
         <ul>
-          <li>Updated P6 = gemini-2.5-pro-preview-06-05</li>
-          <li>Share chats with other Toledo1 users using the export/import menu action</li>
+          <li>Updated P7 = grok-4</li>
+          <li>PDF uploads size limit increased to 10MB</li>
         </ul>
       </description>
     </release>
