@@ -54,7 +54,7 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.1.11" date="2025-08-08">
+    <release version="2.1.12" date="2025-08-20">
       <description>
         <p>Release Changes:</p>
         <ul>
@@ -62,7 +62,8 @@
           <li>P2 updated to claude-sonnet-4-20250514</li>
           <li>P3 updated to claude-opus-4-1-20250805</li>
           <li>P4 updated to moonshotai/kimi-k2</li>
-          <li>P5 updated to gemma3n:e4b</li>
+          <li>P5 updated to gemma3:4b</li>
+          <li>P6 updated to gemini-2.5-pro</li>
           <li>P7 updated to gemini-2.5-flash</li>
           <li>P9 updated to gpt-oss-120b</li>
           <li>P11 updated to qwen/qwen3-coder</li>
