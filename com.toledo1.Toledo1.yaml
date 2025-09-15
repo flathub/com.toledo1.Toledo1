@@ -32,11 +32,11 @@ modules:
       - type: file
         path: com.toledo1.Toledo1.appdata.xml
       - type: extra-data
-        size: 286909872
+        size: 287119296
         only-arches:
           - x86_64
-        url: https://github.com/toledo-labs/toledo1/releases/download/v2.1.13/toledo1
-        sha256: dc0838f731012ed09859ba69ca1e1b1da16964f9ba47c6c756be1ffc58ba4da4
+        url: https://github.com/toledo-labs/toledo1/releases/download/v2.1.14/toledo1
+        sha256: 56217890035d1ff0137ca6d60bebdf22fcdd7b6ad3da79611f63c1ceb1dd8059
         filename: toledo1
       - type: script
         dest-filename: apply_extra
