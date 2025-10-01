@@ -54,7 +54,7 @@
   <url type="contact">https://toledo1.com/contact/</url>
   <content_rating type="oars-1.1" />
   <releases>
-    <release version="2.1.14" date="2025-09-15">
+    <release version="2.1.15" date="2025-10-01">
       <description>
         <p>After listening to feedback all default models (except the free P9) with work with image inputs and support large context windows for PDF uploads.</p>
         <ul>
