@@ -38,20 +38,20 @@
   <launchable type="desktop-id">com.toledo1.Toledo1.desktop</launchable>
   <screenshots>
     <screenshot type="default">
-      <image>https://toledo1.com/toledo1-linux-demo4.png</image>
+      <image>https://raw.githubusercontent.com/flathub/com.toledo1.Toledo1/c9313d7e9e864fbb595619f3c8f7681ae4b2aae0/screenshots/image-1_orig.png</image>
       <caption>Chat with reasoning models across providers on the same chat thread</caption>
     </screenshot>
-    <screenshot type="default">
-      <image>https://toledo1.com/toledo1-linux-demo5.png</image>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flathub/com.toledo1.Toledo1/c9313d7e9e864fbb595619f3c8f7681ae4b2aae0/screenshots/image-2_orig.png</image>
       <caption>Search and resume previous conversations</caption>
     </screenshot>
-    <screenshot type="default">
-      <image>https://toledo1.com/toledo1-linux-demo6.png</image>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flathub/com.toledo1.Toledo1/c9313d7e9e864fbb595619f3c8f7681ae4b2aae0/screenshots/image-3_orig.png</image>
       <caption>Run local inference with the best models</caption>
     </screenshot>
   </screenshots>
-  <url type="homepage">https://toledo1.com/</url>
-  <url type="contact">https://toledo1.com/contact/</url>
+  <url type="homepage">https://github.com/flathub/com.toledo1.Toledo1</url>
+  <url type="contact">https://github.com/flathub/com.toledo1.Toledo1</url>
   <content_rating type="oars-1.1" />
   <releases>
     <release version="2.1.15" date="2025-10-01">
